@@ -6,6 +6,8 @@
 /.setup_done
 /.wandb_sweeps
 
+*.pth
+
 !/**/.gitkeep
 
 # IntelliJ IDEA project
